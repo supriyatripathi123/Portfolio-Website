@@ -1,4 +1,4 @@
->>>>>Personal Portfolio Website
+>>>>*Personal Portfolio Website
 
 Welcome to my personal portfolio website built with **HTML, CSS, and JavaScript**. This site showcases my frontend development skills, UI/UX design sense, and project highlights.
 
